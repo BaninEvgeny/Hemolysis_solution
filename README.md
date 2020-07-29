@@ -4,3 +4,5 @@ Code for calculation hemolysis index for Lagrang's approach. Support constants f
 - Giersiepen et al.(GP), 
 - Heuser et al.(HE), 
 - Zhang et al. #1 
+
+Source file for 1000 particles - https://yadi.sk/i/92ggHkQlmApm1A
